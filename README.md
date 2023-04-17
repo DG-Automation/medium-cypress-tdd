@@ -15,6 +15,7 @@ When using yarn
 
 When using npm
 - Run `npm cypress:open` to run the tests in the Cypress Test Runner
+- Run `npm cypress:ci` to run the tests in the command line
 
 ## Component Tests
 Component tests can be found within src/components/[component-name]/
