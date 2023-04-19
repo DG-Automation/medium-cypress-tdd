@@ -1,5 +1,5 @@
 # medium-cypress-tdd
-Very basic react+vite application to compliment a medium article relating to unlocking the power of TDD with Cypress component testing and AI assisted development (ChatGPT). 
+Very basic react+vite application to compliment a **[medium article](https://medium.com/@garadominic/accelerate-your-development-with-cypress-component-testing-tdd-and-chatgpt-ca89c79935c3)** relating to unlocking the power of TDD with Cypress component testing and AI assisted development (ChatGPT). 
 
 
 ## Installation
